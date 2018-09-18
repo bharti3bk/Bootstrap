@@ -4,6 +4,9 @@
   "description": "bootstrap",
   "main": "index.js",
   "scripts": {
+      
+    "start": "npm run lite",
+    "lite":"lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

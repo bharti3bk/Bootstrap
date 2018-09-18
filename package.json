@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bharti3bk/Bootstrap/issues"
   },
-  "homepage": "https://github.com/bharti3bk/Bootstrap#readme"
+  "homepage": "https://github.com/bharti3bk/Bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
 }

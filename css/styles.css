@@ -1,0 +1,71 @@
+.row-header{
+    margin:0px auto;
+    padding:0px;
+} 
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+} 
+.footer{
+    background-color: papayawhip;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+} 
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background:grey;
+    color:floralwhite;
+} 
+address{
+    font-size:80%;
+    margin:0px;
+    color:whitesmoke;
+} 
+.list-unstyled{
+    list-style: none;
+} 
+body
+{
+    padding: 50px 0px 0px 0px;
+}  
+.navbar-dark 
+{
+    background-color: peachpuff;
+}  
+h5{
+    color: grey;
+} 
+li a {
+    color: gray;
+} 
+address a 
+{
+    color: gray;
+} 
+
+footer div p
+{
+    color: grey;
+}    
+p {
+    font-style: italic;
+} 
+div h1,h3,h5,h2 
+{
+    font-style: italic;
+} 
+address
+{
+    color:grey;
+}   
+.fa fa search 
+{
+    color: grey;
+}
+
+
+
+
